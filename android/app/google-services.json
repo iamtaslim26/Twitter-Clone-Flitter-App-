@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "581784639032",
+    "project_id": "taslimblogapp",
+    "storage_bucket": "taslimblogapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581784639032:android:3b1e431c6258b0540f38cd",
+        "android_client_info": {
+          "package_name": "com.example.FlitterApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581784639032-h5c8vq5l8ivi0g582bf09vvmcqcv5dim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_FnpAPd7QLgEOA4XrgZ0nepkUQxjuLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581784639032-h5c8vq5l8ivi0g582bf09vvmcqcv5dim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581784639032:android:4e9534616ba6da6d0f38cd",
+        "android_client_info": {
+          "package_name": "com.example.TaslimBlogApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581784639032-h5c8vq5l8ivi0g582bf09vvmcqcv5dim.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7_FnpAPd7QLgEOA4XrgZ0nepkUQxjuLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581784639032-h5c8vq5l8ivi0g582bf09vvmcqcv5dim.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
